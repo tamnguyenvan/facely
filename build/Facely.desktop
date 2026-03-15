@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Facely
+Comment=Production-grade facial recognition desktop system
+Exec=Facely
+Icon=facely
+Categories=Utility;Graphics;
+Terminal=false
+StartupWMClass=Facely
